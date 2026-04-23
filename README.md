@@ -6,10 +6,10 @@
 ---
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">Desenvolvedor Back-end em formação, com foco em Java e Spring Boot. <br> Crio APIs REST, aplico regras de negócio e integração com banco de dados. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
+<p align="left">Desenvolvedor Back-end em formação, com foco em back-end. <br> Crio Projetos, aplico regras de código limpo e boas práticas de programação. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
 
-> ✨ **Porque para Deus nada será impossível.**  
-> *Lucas 1:37*
+> ✨ **"Paciencia Imperios não se constroem em um dia".**  
+> *Julio Cesar"
 
  ## 🚀 Soft Skills
 
