@@ -1,4 +1,4 @@
-<h1 align="left">👦🏾 💻 Olá, eu sou o André!</h1>
+<h1 align="left">👦🏾 💻 Olá, eu sou o Adrian!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=500&lines=Desenvolvedor+Back-end" />
 </p>
@@ -101,11 +101,11 @@
 ### 🌍 Onde me Encontrar?
 
 <div align="left">
-  <a href="https://www.instagram.com/andree.xnj/" target="_blank">
+  <a href="https://www.instagram.com/s4y_mx_name/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="https://www.linkedin.com/in/andre-santosdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/adrian-diaz-627a93378/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
