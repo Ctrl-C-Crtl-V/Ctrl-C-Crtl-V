@@ -9,7 +9,7 @@
 <p align="left">Desenvolvedor Back-end em formação, com foco em back-end. <br> Crio Projetos, aplico regras de código limpo e boas práticas de programação. <br> Busco estágio para evoluir em ambiente real de desenvolvimento.</p>
 
 > ✨ **"Paciencia Imperios não se constroem em um dia".**  
-> "Julio Cesar"
+>  - Julio Cesar
 
  ## 🚀 Soft Skills
 
